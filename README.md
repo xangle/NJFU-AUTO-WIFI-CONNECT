@@ -3,4 +3,4 @@
 
 > 用于自动登录认证校园网
 
-#### author: moker
+#### @author: moker
